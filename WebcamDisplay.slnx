@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="WebcamDisplay.vcxproj" Id="29497fcf-0e03-4f0c-83ae-fc513e57bc02" />
+</Solution>
